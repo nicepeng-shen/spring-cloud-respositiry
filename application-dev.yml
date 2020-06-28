@@ -33,5 +33,5 @@ eureka:
     service-url:
       register-with-eureka: true
       fetch-registry: true
-      defaultZone: http://eureka7001:7001/eureka/
-version:1
+      defaultZone: http://eureka7001:7001/eureka/version/1
+
