@@ -28,7 +28,7 @@
 #             #- Host=**.com.cn
  eureka:
    instance:
-     hostname: cloud-gateway-service-2
+     hostname: cloud-gateway-service-3
 #   client: #服务提供者provider注册进eureka服务列表内
 #     service-url:
 #       register-with-eureka: true
